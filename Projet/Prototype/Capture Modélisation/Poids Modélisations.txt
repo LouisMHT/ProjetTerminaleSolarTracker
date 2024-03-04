@@ -1,0 +1,27 @@
+ABS
+
+Plateforme : 229.70g
+First engrenage : 8.62g
+Barre x2 : 0.82g+1.54g
+Fixation Bras Panneau : 54.04g
+Engrenage 7 : 13.63g
+Second engrenage : 18.05g
+
+Total : 326.4g = environ 330g
+
+
+Aluminium
+
+Plateforme : 630g
+First engrenage : 23.65g
+Barre x2 : 4.22g+2.25g
+Fixation Bras Panneau : 148.33g
+Engrenage 7 : 37.41g
+Second engrenage : 49.54g
+
+Total : 895.4g = environ 900g
+
+Roulement à billes x7 : 70g
+
+Total ABS + RAB = 400g
+Total Aluminium + RAB = 970g
